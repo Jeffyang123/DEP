@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+/doc/
+/Meta/
+/example_data
+/GOdata
+/LICENSE.md
+/logo
+old_vignetees/
